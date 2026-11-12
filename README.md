@@ -1,53 +1,131 @@
 
+# 
+<div align="center">
+
 # Hi, I'm Rakshith S. Jogi 👋
 
-### Project Management | Product Operations | Business Analytics
+### Technical Project Management | Product Operations | Business Analytics
 
-📍 Based in Japan
+**Connecting Business Strategy, Technology & Engineering Execution**
 
-I am a business and technology professional with experience in business operations, stakeholder management, cross-functional coordination, and technology-driven project delivery.
+📍 Japan | 🌏 International Business & Technology
 
-My focus is connecting business requirements with engineering execution to deliver practical, scalable solutions.
+</div>
 
-## 🚀 What I Work On
+---
 
-- Project planning, milestones, and delivery tracking
-- Engineering coordination and technical reviews
-- Product requirements and documentation
-- GitHub issue tracking and pull request workflows
-- Business process improvement and analytics
-- Stakeholder communication and reporting
+## 👨‍💼 About Me
 
-## 💼 Professional Background
+I'm a business and technology professional with experience in business operations, stakeholder management, product coordination, and technology-driven project delivery.
 
-**WebOmega — Japan**
-- Coordination of website and software development activities
-- Engineering task tracking and review coordination
-- Product planning and cross-functional communication
+I hold an **MBA in Business Analytics from Golden Gate University**.
 
-**Previous Experience**
-- Pine Labs — Business Operations & Banking Alliances
-- Paytm — Key Account Management
-- Chalo Mobility — Operations Management
+My professional experience spans digital payments, banking alliances, mobility operations, and technology projects.
 
-## 🛠️ Tools & Skills
+I enjoy transforming business requirements into actionable plans, coordinating cross-functional teams, and helping deliver reliable solutions.
 
-**Project Management:** Agile, Kanban, Jira, GitHub Projects
+---
 
-**Analytics:** Excel, Power BI, Tableau
+## 🚀 What I Do
 
-**Collaboration:** GitHub, Slack, Microsoft Teams
+- 📋 **Project Management:** Planning, milestones, deliverables, and progress tracking
+- 🤝 **Stakeholder Management:** Business and engineering communication
+- 💻 **Engineering Coordination:** GitHub workflows, code review coordination, and QA follow-ups
+- 📊 **Business Analytics:** KPI tracking, operational reporting, and performance analysis
+- 🧩 **Product Operations:** Requirements gathering, documentation, and process improvement
+- 🌏 **International Collaboration:** Cross-cultural communication and business coordination
 
-**Business:** Stakeholder Management, Operations, Requirements Gathering
+---
+
+## 💼 Professional Experience
+
+### WebOmega | Japan
+**Project Manager**
+
+- Manage and coordinate website, software development, and R&D projects.
+- Plan project roadmaps, milestones, task assignments, and delivery timelines.
+- Coordinate engineering teams and monitor development progress.
+- Oversee GitHub workflows, pull request reviews, QA feedback, and release readiness.
+- Work closely with the CEO and developers to align business objectives with technical execution.
+- Support AI, WebXR, and digital product development initiatives.
+- Manage stakeholder communication, project documentation, and progress reporting.
+
+### Pine Labs | India
+**Assistant Manager — Business Operations & Banking Alliances**
+
+- Managed operational coordination with banking partners.
+- Supported merchant onboarding and business performance.
+- Worked with cross-functional teams to improve delivery.
+
+### Paytm | India
+**Key Accounts Manager**
+
+- Managed merchant relationships and operational requirements.
+- Coordinated with internal teams to resolve service issues.
+- Supported client satisfaction and business growth.
+
+### Chalo Mobility | India
+**Assistant Manager — Operations**
+
+- Supported public transportation operations and service delivery.
+- Coordinated operational teams and stakeholders.
+- Contributed to process improvement and network expansion.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Skills & Tools |
+|---|---|
+| Project Management | Agile, Kanban, Jira, GitHub Projects |
+| Product Operations | Requirements, Roadmaps, Documentation |
+| Engineering Collaboration | GitHub, Pull Requests, QA Coordination |
+| Business Analytics | Excel, Power BI, Tableau |
+| Communication | Slack, Microsoft Teams |
+| Business Management | Stakeholder Management, Operations |
+
+---
+
+## 📂 Project Management Portfolio
+
+I'm developing a collection of project management resources and case studies.
+
+### 📋 Project Management Playbook
+Templates for project planning, task management, risk tracking, and stakeholder reporting.
+
+### 🧪 Engineering Review Framework
+Checklists for code review coordination, QA verification, and release readiness.
+
+### 📊 Business Analytics Portfolio
+Examples of operational reporting, KPI dashboards, and data-driven decision-making.
+
+### 🗺️ Product Roadmaps
+Sample roadmaps demonstrating milestones, dependencies, and delivery planning.
+
+---
 
 ## 🎯 Current Focus
 
-- Improving engineering delivery workflows
+- Strengthening technical project management practices
+- Improving engineering coordination and delivery workflows
+- Exploring AI-enabled product development
 - Building transparent project tracking systems
-- Supporting AI and web technology projects
-- Strengthening collaboration between business and engineering teams
+- Connecting business objectives with technical execution
 
-## 🤝 Let's Connect
+---
 
-I'm interested in technology, product development, project management, and international business collaboration.
+## 🌐 Professional Interests
 
+**Technical Project Management • Product Development • Business Analytics • AI • Digital Transformation • International Business**
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with professionals working in technology, project management, product development, and business operations.
+
+**Building better connections between people, business, and technology.**
+
+</div>
